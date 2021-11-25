@@ -19,3 +19,11 @@
 * [An AI Pioneer Explains the Evolution of Neural Networks](https://youtu.be/UTfQwTuri8Y) - Nice Interview!
 * [But what is a neural network? | Chapter 1, Deep learning](https://www.youtube.com/watch?v=aircAruvnKk) - Check all 4 Parts
 * [How Computationally Complex Is a Single Neuron?](https://www.quantamagazine.org/how-computationally-complex-is-a-single-neuron-20210902/)
+
+## Part II - The Feature Planes (CNN)
+
+* [CNN Explainer | Online CNN visualisation in your Browser](https://poloclub.github.io/cnn-explainer/)
+* [Common CNN Architectures](https://www.jeremyjordan.me/convnet-architectures/)
+* [CNN Weakness - Capsule Networks Are Shaking up AI](https://hackernoon.com/capsule-networks-are-shaking-up-ai-heres-how-to-use-them-c233a0971952)
+* [How to Trick CNN Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-8-how-to-intentionally-trick-neural-networks-b55da32b7196)
+

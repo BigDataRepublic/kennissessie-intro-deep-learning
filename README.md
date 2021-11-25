@@ -22,6 +22,8 @@
 
 ## Part II - The Feature Planes (CNN)
 
+![weirdwillem](images/cnn.png)
+
 * [CNN Explainer | Online CNN visualisation in your Browser](https://poloclub.github.io/cnn-explainer/)
 * [Common CNN Architectures](https://www.jeremyjordan.me/convnet-architectures/)
 * [CNN Weakness - Capsule Networks Are Shaking up AI](https://hackernoon.com/capsule-networks-are-shaking-up-ai-heres-how-to-use-them-c233a0971952)

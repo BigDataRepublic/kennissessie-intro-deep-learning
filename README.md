@@ -24,6 +24,7 @@
 
 ![weirdwillem](images/cnn.png)
 
+* [Nuts and Bolts of Applying Deep Learning (Andrew Ng)](https://www.youtube.com/watch?v=F1ka6a13S9I)
 * [CNN Explainer | Online CNN visualisation in your Browser](https://poloclub.github.io/cnn-explainer/)
 * [Common CNN Architectures](https://www.jeremyjordan.me/convnet-architectures/)
 * [CNN Weakness - Capsule Networks Are Shaking up AI](https://hackernoon.com/capsule-networks-are-shaking-up-ai-heres-how-to-use-them-c233a0971952)

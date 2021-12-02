@@ -30,3 +30,11 @@
 * [CNN Weakness - Capsule Networks Are Shaking up AI](https://hackernoon.com/capsule-networks-are-shaking-up-ai-heres-how-to-use-them-c233a0971952)
 * [How to Trick CNN Networks](https://medium.com/@ageitgey/machine-learning-is-fun-part-8-how-to-intentionally-trick-neural-networks-b55da32b7196)
 
+## Part III - History
+
+
+* [Common architectures in convolutional neural networks.](https://www.jeremyjordan.me/convnet-architectures/)
+* [A Brief History Of Neural Network Architectures](https://www.topbots.com/a-brief-history-of-neural-network-architectures/)
+* [https://medium.com/@shahariarrabby/lenet-5-alexnet-vgg-16-from-deeplearning-ai-2a4fa5f26344](https://medium.com/@shahariarrabby/lenet-5-alexnet-vgg-16-from-deeplearning-ai-2a4fa5f26344)
+* [History of Convolutional Blocks in simple Code](https://towardsdatascience.com/history-of-convolutional-blocks-in-simple-code-96a7ddceac0c)
+

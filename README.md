@@ -19,6 +19,8 @@
 * [An AI Pioneer Explains the Evolution of Neural Networks](https://youtu.be/UTfQwTuri8Y) - Nice Interview!
 * [But what is a neural network? | Chapter 1, Deep learning](https://www.youtube.com/watch?v=aircAruvnKk) - Check all 4 Parts
 * [How Computationally Complex Is a Single Neuron?](https://www.quantamagazine.org/how-computationally-complex-is-a-single-neuron-20210902/)
+* [Neural Networks Pt. 1: Inside the Black Box](https://www.youtube.com/watch?v=CqOfi41LfDw)
+
 
 ## Part II - The Feature Planes (CNN)
 
@@ -37,4 +39,8 @@
 * [A Brief History Of Neural Network Architectures](https://www.topbots.com/a-brief-history-of-neural-network-architectures/)
 * [https://medium.com/@shahariarrabby/lenet-5-alexnet-vgg-16-from-deeplearning-ai-2a4fa5f26344](https://medium.com/@shahariarrabby/lenet-5-alexnet-vgg-16-from-deeplearning-ai-2a4fa5f26344)
 * [History of Convolutional Blocks in simple Code](https://towardsdatascience.com/history-of-convolutional-blocks-in-simple-code-96a7ddceac0c)
+
+## Part IV - Hugging Face
+
+https://huggingface.co/
 

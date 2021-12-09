@@ -44,3 +44,22 @@
 
 https://huggingface.co/
 
+* Spaces (Apps)
+	- https://huggingface.co/spaces/akhaliq/AnimeGANv2
+	- Play Around with https://huggingface.co/spaces - pick 1 or 2 you like
+
+* Transformers
+	- Find GPT-2 and let GPT-2 complete an sentence for you
+	- Play around and pick 1 or 2 models you like 
+
+* Transformers
+	- https://huggingface.co/docs/transformers/index
+	- Install & Try run a model local on your PC / local on the cloud
+
+* AutoNLP
+	- Find the documentation, what is it?
+
+* Plans
+	- https://huggingface.co/pricing
+	- Create a free account
+	- Play around
